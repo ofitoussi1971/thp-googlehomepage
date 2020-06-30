@@ -1,0 +1,29 @@
+.nav {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    font-style: "arial-narrow";
+  }
+  
+.right {
+      font-style: "arial-narrow";
+  }
+
+.center {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: "arial"
+  }
+
+label {
+    display: block;
+    font-style: "arial-narrow";
+    border-radius: "10px";
+}
+
+.boutons {
+    display:flex;
+    justify-content:center;
+
+}
